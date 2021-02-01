@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/ngx-kyran",
       "sourceRoot": "projects/ngx-kyran/src",
-      "prefix": "NgxKy",
+      "prefix": "ky",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",

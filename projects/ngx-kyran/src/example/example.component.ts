@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'NgxKy-NgxKyran',
+  selector: 'ky-example',
   template: `
     <p>
       ngx-kyran works!
@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
   styles: [
   ]
 })
-export class NgxKyranExampleComponent implements OnInit {
+export class ExampleComponent implements OnInit {
 
   constructor() { }
 

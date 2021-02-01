@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { NgxKyranExampleComponent } from './ngxky-example.component';
+import { ExampleComponent } from './example.component';
 
 describe('NgxKyranComponent', () => {
-  let component: NgxKyranExampleComponent;
-  let fixture: ComponentFixture<NgxKyranExampleComponent>;
+  let component: ExampleComponent;
+  let fixture: ComponentFixture<ExampleComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ NgxKyranExampleComponent ]
+      declarations: [ ExampleComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(NgxKyranExampleComponent);
+    fixture = TestBed.createComponent(ExampleComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

@@ -10,7 +10,7 @@
     "component-selector": [
       true,
       "element",
-      "ngx-ky",
+      "ky",
       "kebab-case"
     ]
   }

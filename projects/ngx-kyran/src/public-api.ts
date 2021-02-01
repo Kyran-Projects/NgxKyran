@@ -2,6 +2,6 @@
  * Public API Surface of ngx-kyran
  */
 
-export * from './ngxky-example/ngxky-example.service';
-export * from './ngxky-example/ngxky-example.component';
-export * from './ngxky-example/ngxky-example.module';
+export * from './example/example.service';
+export * from './example/example.component';
+export * from './example/example.module';
