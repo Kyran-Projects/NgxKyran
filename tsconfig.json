@@ -10,6 +10,12 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "ngx-kyran": [
+        "dist/ngx-kyran/ngx-kyran",
+        "dist/ngx-kyran"
+      ]
+    },
     "target": "es2015",
     "module": "es2020",
     "lib": [
