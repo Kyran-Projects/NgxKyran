@@ -1,3 +1,8 @@
+![Logotipo Kyran](https://github.com/Kyran-Projects/NgxKyran/blob/master/logo.png)
+
+# About
+Somos uma galeria de componentes para interfaces de sistemas corporativas.
+
 # KyranComponents
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
