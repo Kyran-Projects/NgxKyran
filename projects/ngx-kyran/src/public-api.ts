@@ -2,6 +2,6 @@
  * Public API Surface of ngx-kyran
  */
 
-export * from './example/example.service';
-export * from './example/example.component';
-export * from './example/example.module';
+export * from './alert/alert.service';
+export * from './alert/alert.component';
+export * from './alert/alert.module';

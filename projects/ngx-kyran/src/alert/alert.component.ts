@@ -1,16 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'ky-example',
+  selector: 'ky-alert',
   template: `
     <p>
-      ngx-kyran works!
+      Alert
     </p>
   `,
   styles: [
   ]
 })
-export class ExampleComponent implements OnInit {
+export class AlertComponent implements OnInit {
 
   constructor() { }
 
