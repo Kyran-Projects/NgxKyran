@@ -1,13 +1,12 @@
 {
-  "name": "kyran",
+  "name": "kyran-components",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "lint": "ng lint"
   },
   "private": true,
   "dependencies": {
@@ -19,13 +18,11 @@
     "@angular/platform-browser": "~11.1.1",
     "@angular/platform-browser-dynamic": "~11.1.1",
     "@angular/router": "~11.1.1",
-    "bootstrap": "^5.0.0-beta1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.1101.2",
     "@angular/cli": "~11.1.2",
     "@angular/compiler-cli": "~11.1.1",
     "@types/jasmine": "~3.6.0",
