@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { NgxKyranService } from './ngx-kyran.service';
+import { NgxKyExampleService } from './ngxky-example.service';
 
 describe('NgxKyranService', () => {
-  let service: NgxKyranService;
+  let service: NgxKyExampleService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(NgxKyranService);
+    service = TestBed.inject(NgxKyExampleService);
   });
 
   it('should be created', () => {

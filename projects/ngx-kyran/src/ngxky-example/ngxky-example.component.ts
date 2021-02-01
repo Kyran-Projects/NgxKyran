@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
   styles: [
   ]
 })
-export class NgxKyranComponent implements OnInit {
+export class NgxKyranExampleComponent implements OnInit {
 
   constructor() { }
 
